@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav {
+    padding: 15px;
+    border: solid black;
+    box-shadow: 10px 5px 5px grey;
+}
+nav h3 {
+    text-align: center;
+}
+.logo {
+    text-align: center;
+}
+.logo img {
+    width: 100px;
+}
+.documents {
+    text-align: center;
+    margin: 20px;
+}
+.documents img {
+    width: 500px;
+    border: solid black;
+    box-shadow: 10px 5px 5px grey;
+}
+.documents h3 {
+    padding: 15px;
+}
+.documents a {
+    padding: 15px;
+    color: black;
+    font-size: 20px;
+}
